@@ -4,7 +4,7 @@
 
 # VisageX
 
-<h3>下一代智能人脸识别系统</h3>
+<h3>简易的智能人脸识别系统</h3>
 
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![DeepFace](https://img.shields.io/badge/DeepFace-Latest-green.svg)](https://github.com/serengil/deepface)
