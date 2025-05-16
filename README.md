@@ -6,7 +6,7 @@
 
 <h3>🌟 轻量级智能人脸识别系统 🌟</h3>
 
-![VisageX Logo](https://github.com/Metastem/VisageX/blob/main/img/image.png)
+![VisageX Logo](https://github.com/Metastem/VisageX/blob/main/img/logo.png)
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![DeepFace](https://img.shields.io/badge/DeepFace-Latest-green.svg)](https://github.com/serengil/deepface)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
