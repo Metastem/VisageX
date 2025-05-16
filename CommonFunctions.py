@@ -1,7 +1,7 @@
 ﻿#common py 
 #######################################################################
 #文件：common py 
-#作者: 工商2024-1 傅思奇，李思嘉，刘可欣
+#作者: 奇源空间
 #功能：人脸识别基础函数和公共变量定义模块
 ########################################################################
 
@@ -12,7 +12,7 @@ from typing import NoReturn
 import collections;
 import hashlib
 # 全局变量
-AUTHOR="人工智能应用大作业-人脸识别 作者:工商2024-1 李睿佳"
+AUTHOR="Visage by NeverForever.space"
 
 FACE_DB="faceDB/" # 人脸库存放位置
 FACE_MODELS="models/" #模型库存放位置
