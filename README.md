@@ -31,7 +31,7 @@ VisageX是一款强大而优雅的人脸识别系统，采用最先进的深度�
 
 <div align="center">
 
-![VisageX Demo](https://pixvid.org/image/QQ20250517-020234.1QRY)
+![image](https://pixvid.org/image/QQ20250517-020234.1QRY)
 
 *VisageX 人脸识别系统实际运行效果图*
 
