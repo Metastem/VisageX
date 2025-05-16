@@ -46,7 +46,7 @@ if ( deepfaceHome==None or len(deepfaceHome)<1 ):
 
 #创建主窗口
 mainWindow = Tk()
-mainWindow.title('工商2024-1 傅思奇，李思嘉，刘可欣')
+mainWindow.title('Visage by NeverForever.space')
 mainWindow.geometry("480x270")
 mainWindow.resizable(False,False)
 centerWindow(mainWindow,480,270)
