@@ -1,5 +1,7 @@
 <div align="center">
 
+<a id="readme-top"></a>
+
 # 🎭 VisageX
 
 <h3>下一代智能人脸识别系统</h3>
@@ -9,8 +11,8 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)](https://github.com)
 
-[📚 文档](#使用说明) •
-[🚀 快速开始](#安装说明) •
+[� 文档](#使用说明) •
+[� 快速开始](#安装说明) •
 [🛠️ 功能](#功能特点) •
 [📞 支持](#技术支持)
 
@@ -62,7 +64,7 @@ VisageX是一款强大而优雅的人脸识别系统，采用最先进的深度�
 
 </details>
 
-### 💫 核心优势
+### � 核心优势
 
 - 🖥️ **直观界面**
   - 简洁现代的GUI设计
@@ -102,10 +104,10 @@ opencv-python # 计算机视觉
 
 ```
 VisageX/
-├── 📜 CommonFunctions.py    # 通用函数库
+├── � CommonFunctions.py    # 通用函数库
 ├── 🎯 face.py              # 主程序
-├── 📝 FaceDataBaseDialog.py # 人脸录入对话框
-├── 🔍 FaceFindialog.py     # 人脸查找对话框
+├── � FaceDataBaseDialog.py # 人脸录入对话框
+├── � FaceFindialog.py     # 人脸查找对话框
 ├── 📊 faceDB/              # 人脸数据库目录
 ├── 📸 InputImages/         # 输入图像目录
 ├── 🧠 models/              # 模型文件目录
@@ -162,7 +164,7 @@ python face.py
 
 ## ⚠️ 注意事项
 
-- 📸 使用清晰的单人正面照
+- � 使用清晰的单人正面照
 - 🔍 推荐使用MTCNN检测算法
 - 📄 支持jpg和jpeg格式
 - ⚙️ 首次使用需下载模型
@@ -171,7 +173,7 @@ python face.py
 
 <div align="center">
 
-### 奇源空间团队
+### 工商2024-1
 
 | 成员 | 职责 |
 |------|------|
@@ -219,6 +221,6 @@ python face.py
 
 **VisageX** - 让人脸识别变得简单而强大
 
-[🔝 返回顶部](#visagex)
+[🔝 返回顶部](#readme-top)
 
 </div>
