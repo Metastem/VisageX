@@ -12,7 +12,7 @@ from typing import NoReturn
 import collections;
 import hashlib
 # 全局变量
-AUTHOR="Visage by NeverForever.space"
+AUTHOR="VisageX by NeverForever.space"
 
 FACE_DB="faceDB/" # 人脸库存放位置
 FACE_MODELS="models/" #模型库存放位置
