@@ -16,7 +16,7 @@
 
 ```
 models/
-└── deepface/
+└── .deepface/
     └── weights/          # 权重文件目录
         ├── *.h5          # Keras模型权重
         ├── *.onnx        # ONNX模型文件
@@ -60,7 +60,7 @@ models/
 1. **自动下载**：DeepFace会在首次使用时自动下载所需模型
 2. **手动下载**：
    - 点击上方链接下载对应文件
-   - 将文件保存到 `models/deepface/weights/` 目录
+   - 将文件保存到 `models/.deepface/weights/` 目录
    - 保持原始文件名不变
 
 ## ⚠️ 注意事项
