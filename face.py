@@ -46,7 +46,7 @@ if ( deepfaceHome==None or len(deepfaceHome)<1 ):
 
 #创建主窗口
 mainWindow = Tk()
-mainWindow.title('Visage by NeverForever.space')
+mainWindow.title('VisageX by NeverForever.space')
 mainWindow.geometry("480x270")
 mainWindow.resizable(False,False)
 centerWindow(mainWindow,480,270)
