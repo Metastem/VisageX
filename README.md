@@ -13,7 +13,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)](https://github.com)
 
-[文档](#documentation) •
+[文档](https://github.com/Metastem/VisageX/wiki) •
 [快速开始](#quick-start) •
 [功能](#features) •
 [支持](#support)
