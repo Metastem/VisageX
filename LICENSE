@@ -1,21 +1,36 @@
-MIT License
+版权所有 (c) 2025 奇源空间（NeverForever.space）  
+Copyright (c) 2025 NeverForever.space
 
-Copyright (c) 2025 奇源空间
+产品名称：VisageX  
+Product Name: VisageX
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+本项目由奇源空间开发并发布，VisageX 产品仅供学习与研究用途。  
+This project is developed and released by Qiyuan Space. VisageX is provided **for educational and research purposes only**.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+【禁止事项 / Prohibited Uses】  
+未经授权，禁止以下行为：  
+The following actions are **prohibited without prior written permission**:  
+- 用于任何形式的商业用途，包括但不限于销售、租赁、SaaS 托管服务或广告变现；  
+  Any **commercial use**, including but not limited to selling, leasing, SaaS hosting, or ad monetization;
+- 将本项目的全部或部分内容用于闭源项目或专有软件中；  
+  Integrating any part of this project into **closed-source** or proprietary software;
+- 未经许可将本项目或其内容发布到其他平台。  
+  Republishing this project or its content on other platforms without authorization.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+【许可事项 / Permitted Uses】  
+允许以下非商业用途：  
+The following actions are **permitted**:  
+- 克隆、查看、学习和本地运行本项目；  
+  Cloning, viewing, studying, and running this project locally for learning purposes;
+- 为个人学习目的修改本项目代码；  
+  Modifying the code for personal, non-commercial research and study;
+- 在学术或技术文档中引用本项目成果并注明出处。  
+  Referencing this work in academic or technical documents with proper attribution.
+
+如需商业授权或合作洽询，请联系：  
+For commercial licensing or partnership inquiries, please contact:  
+**official@neverforever.space**
+(**official@neverforever.space**
+
+本授权受中国及国际相关版权法律保护。  
+This license is governed by applicable copyright laws in China and internationally.
